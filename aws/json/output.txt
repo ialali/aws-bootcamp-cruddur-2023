@@ -1,51 +1,0 @@
-> aws budgets create-budget --account-id 361053599075 --budget file://aws/json/                                                                               b
-udget.json --notifications-with-subscribers file://aws/json/budget-notification                                                                               -
-with-subscription.json
-
-
-
-
-
-
- 
-───────────────────────────────────────────────────────────────────────────────                                                                               ─
-[ENTER] Autocomplete Choice/Execute Command    [F1] Show Shortkey Help    [F2]                                                                                F
-ocus on next panel    [F3] Hide/Show Docs    [F5] Hide/Show Output                       
- Notification={  [structure] The notification that's associated with a budget.                                                                                 
- Subscribers=[   [list] A list of subscribers who are subscribed to this no...                                                                                                        > aws budgets create-budget --account-id 361053599075 --budget file://aws/json/                                                                               b
-udget.json --notifications-with-subscribers file://aws/json/budget-notification                                                                               -
-with-subscription.json
- Notification={  [structure] The notification that's associated with a budget.                                                                                 
- Subscribers=[   [list] A list of subscribers who are subscribed to this no...                                                                                 
-
-
-
-
- 
-───────────────────────────────────────────────────────────────────────────────                                                                               ─
-[ENTER] Autocomplete Choice/Execute Command    [F1] Show Shortkey Help    [F2]                                                                                F
-ocus on next panel    [F3] Hide/Show Docs    [F5] Hide/Show Output                       > aws budgets create-budget --account-id 361053599075 --budget file://aws/json/                                                                               b
-udget.json --notifications-with-subscribers file://aws/json/budget-notification                                                                               -
-with-subscription.json
- Notification={  [structure] The notification that's associated with a budget.                                                                                 
- Subscribers=[   [list] A list of subscribers who are subscribed to this no...                                                                                 
-
-
-
-
- 
-───────────────────────────────────────────────────────────────────────────────                                                                               ─
-[ENTER] Autocomplete Choice/Execute Command    [F1] Show Shortkey Help    [F2]                                                                                F
-ocus on next panel    [F3] Hide/Show Docs    [F5] Hide/Show Output                       > aws budgets create-budget --account-id 361053599075 --budget file://aws/json/                                                                               b
-udget.json --notifications-with-subscribers file://aws/json/budget-notification                                                                               -
-with-subscription.json
- Notification={  [structure] The notification that's associated with a budget.                                                                                 
- Subscribers=[   [list] A list of subscribers who are subscribed to this no...                                                                                 
-
-
-
-
- 
-───────────────────────────────────────────────────────────────────────────────                                                                               ─
-[ENTER] Autocomplete Choice/Execute Command    [F1] Show Shortkey Help    [F2]                                                                                F
-ocus on next panel    [F3] Hide/Show Docs    [F5] Hide/Show Output                       
